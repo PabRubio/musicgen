@@ -1,0 +1,7 @@
+PROMPTS = {
+    "calm":  "calm ambient pads, soft piano, gentle reverb, relaxing, cinematic",
+    "sad":   "slow minor key, sparse piano and soft strings, melancholic, low tempo",
+    "happy": "bright upbeat melody, acoustic guitar, handclaps, cheerful, pop feel",
+    "angry": "aggressive distorted synths and heavy drums, intense, high energy",
+    "dreamy":"airy pads, shimmering bells, ethereal, spacious reverb"
+}
